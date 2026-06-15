@@ -7,7 +7,7 @@
 🎓 B.Tech CSE (AI & Data Science) · BVCEC · Year III  
 📍 Nepal &nbsp;|&nbsp; 📧 ashishchidi.37@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-chidi-1065a3350)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Asisx10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishchidi.37@gmail.com)
 
